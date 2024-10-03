@@ -15,5 +15,9 @@
     "url": "https://github.com/SAM11012/TinderClone-Backend/issues"
   },
   "homepage": "https://github.com/SAM11012/TinderClone-Backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
 }
